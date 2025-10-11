@@ -1,16 +1,42 @@
-## Hi there 👋
+# Nebula — Play. Create. Explore.
 
-<!--
-**nebula-site/nebula-site** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Nebula**, a next-generation browser-based **game platform** where you can play fun web games instantly — no downloads, no ads, just pure gameplay.
 
-Here are some ideas to get you started:
+🎮 **Website:** [nebula-site.github.io](https://nebula.global.ssl.fastly.net)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 About Nebula
+Nebula is a sleek, modern web gaming hub built to bring your favorite games together in one place. Inspired by classic platforms like **Poki** and **CrazyGames**, Nebula focuses on speed, style, and simplicity.
+
+### ✨ Features
+- 🕹️ **Instant play** — no installs, no clutter  
+- 💾 **Lightweight design** with fast loading  
+- 🌙 **Modern dark theme** with clean UI  
+- 🧩 **Custom-built game cards** with hover animations  
+- 🔗 **Seamless navigation** between homepage, games, and player page  
+- 💬 **Constantly expanding** with new games every week  
+
+---
+
+## 🧱 Built With
+Nebula is made entirely using open web technologies:
+- **HTML5** — for structure  
+- **CSS3 / Flexbox / Grid** — for styling and layout  
+- **JavaScript (Vanilla)** — for interactivity and game loading logic  
+
+---
+
+## 🛠️ Development
+If you’d like to run Nebula locally or contribute:
+
+```bash
+# Clone this repository
+git clone https://github.com/nebula-site/nebula.git
+
+# Open the project folder
+cd nebula
+
+# Start a local server (Python example)
+python -m http.server 8000
