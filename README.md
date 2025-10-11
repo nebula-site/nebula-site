@@ -16,7 +16,7 @@ Nebula is a sleek, modern web gaming hub built to bring your favorite games toge
 - 🌙 **Modern dark theme** with clean UI  
 - 🧩 **Custom-built game cards** with hover animations  
 - 🔗 **Seamless navigation** between homepage, games, and player page  
-- 💬 **Constantly expanding** with new games every week  
+- 💬 **Constantly expanding** with new games every month  
 
 ---
 
