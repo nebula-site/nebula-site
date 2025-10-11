@@ -28,15 +28,4 @@ Nebula is made entirely using open web technologies:
 
 ---
 
-## 🛠️ Development
-If you’d like to run Nebula locally or contribute:
 
-```bash
-# Clone this repository
-git clone https://github.com/nebula-site/nebula.git
-
-# Open the project folder
-cd nebula
-
-# Start a local server (Python example)
-python -m http.server 8000
